@@ -1,0 +1,120 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  
+}
+.Menusub_InnerCard_Details{
+    height: 100px;   
+    position: relative;
+}
+.Menusub_InnerCard_Details:link{
+    text-decoration: none;
+    color: black;
+}
+
+
+.MenusubInnerCard{
+    border: 1px solid #dddddd;
+    height: 360px;
+    width: 310px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.Carous{
+    height: 450px;
+    width: 700px;
+}
+Carousel{
+    height: 100%;
+    width: 100%;
+}
+img[alt="cardimg1"]{
+    width: 100%;
+    height: 252px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.subcard{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 90vw;
+    height: 1320px;
+    position: relative;
+    top: 18vh;
+    left: 120px;
+
+}
+.Menubtn{
+    position:"absolute";
+    right:"0px";
+    top:"15px";
+   height:"30px";
+   width:"100px";
+   color:"white";
+   background-color:"#fd7e14";
+  border:"none";
+   border-radius:"10px"
+}
+
+.headposition{
+    
+    height: 75px;
+    margin: 20px;
+    border-top:1px solid ;
+    border-bottom: 1px solid;
+}
+.MenupartHeader{
+    height: 40vh;
+    width: 80vw;
+    margin: auto;
+    position: relative;
+    top: 100px;
+
+}
+#Menudata{
+    font-size: 23px;
+    margin-left:15px;
+}
+#headInner{
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#MenuName{
+    font-size: 40px;
+    margin: 15px;
+}
+
+.headposition{
+    
+    height: 75px;
+    margin: 20px;
+    border-top:1px solid ;
+    border-bottom: 1px solid;
+}
+.MenupartHeader{
+    height: 40vh;
+    width: 80vw;
+    margin: auto;
+    position: relative;
+    top: 100px;
+  
+}
+#Menudata{
+    font-size: 23px;
+    margin-left:15px;
+}
+#headInner{
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#MenuName{
+    font-size: 40px;
+    margin: 15px;
+}  

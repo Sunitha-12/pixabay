@@ -1,0 +1,109 @@
+ *{
+    margin:0px;
+    padding: 0px;
+    /* border: 2px solid; */
+   
+}
+/* div{
+    background-color: #e9cbb7;
+    width: 100%;
+    height: 1500px;
+}
+h1{
+    color:rgb(80, 35, 20);
+    position: absolute;
+    left: 600px;
+    font-weight: bolder;
+}
+ /* button{
+    position: absolute;
+    left: 1400px;
+    background-color: #D62300;
+    color: white;
+    height: 35px;
+    width: 100px;
+    border-radius: 18px;
+}  */
+#head{
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    font:48px Flame-Bold;
+    color:#502314;
+    font-weight: bolder;
+    width: 100%;
+}
+ #bt{
+    position: absolute;
+    left: 150px;
+    top: 270px;
+    background-color: #D62300;
+    color: white;
+    height: 45px;
+    width: 300px;
+    border-radius: 18px;
+} 
+/* img{
+    position: absolute;
+    left: 700px;
+    top: 100px;
+} */
+#bt1{
+    color: #D62300;
+    background-color: white;
+    position: absolute;
+    top: 350px;
+    left: 150px;
+    height: 45px;
+    width: 300px;
+}
+/* #foot{
+    height: 40px;
+    width: 100%;
+    border:2px;
+    background-color: #502314;
+} */ 
+/* *{
+    margin:0px;
+    padding: 0px;
+}  */
+
+.card{
+    box-shadow: 0 4px 8px 0;
+    width: 550px;
+    border-radius: 12px;
+    margin: 30px;
+    background-color:white;
+}
+img{
+    width: 100%;
+}
+.con{
+    padding: 5px 16px;
+    background-color:white;
+}
+div{
+    background-color:beige;
+}
+
+/* footer css */
+.footer{
+    background-color: #f5ebdc;
+    position: absolute;
+    bottom: 0px;
+    position: fixed;
+    height: 70px;
+    width: 100vw;
+    border-top: 1px solid white;
+    color: #572e20;
+}
+.foot1{
+    font-weight:lighter;
+    width: 100vw;
+    display: flex;
+    justify-content:space-around;
+   
+}
+
+
+
